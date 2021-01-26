@@ -32,9 +32,16 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.2.5",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Jost', sans-serif",
+        "name": "Jost",
+        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
     "uniqCompNum": 0,
-    "versionPublish": "5.2.5"
+    "versionPublish": "5.2.5",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
